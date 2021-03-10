@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Cycles {
+public class AllInOne {
     public static void main(String[] args) {
         //fromOneToFive();
         //fromOneToEightyEven();
